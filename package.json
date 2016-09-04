@@ -1,0 +1,25 @@
+{
+  "name": "chrome-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^1.0.26",
+    "vue-router": "^0.7.13"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-runtime": "^6.15.0",
+    "css-loader": "^0.24.0",
+    "node-sass": "^3.8.0",
+    "sass-loader": "^4.0.1",
+    "style-loader": "^0.13.1",
+    "vue-loader": "^8.5.2",
+    "vue-style-loader": "^1.0.0",
+    "webpack": "^1.13.2"
+  }
+}
